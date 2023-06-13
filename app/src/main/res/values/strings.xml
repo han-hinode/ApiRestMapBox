@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiRestMapBox</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicGplYWxwYWMiLCJhIjoiY2xpYnNvYzJ3MGVkbzNtbXFrYmE0M3lpMCJ9.bmUJYRKQ5LnEg-ocCwszeA</string>
+</resources>
